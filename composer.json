@@ -1,0 +1,6 @@
+{
+    "name": "Intelener/Templates",
+    "type": "symfony-bundle",
+    "description": "Multiple Template for templating",
+    "license": "MIT"
+}
